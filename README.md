@@ -25,7 +25,7 @@ Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%
  * Bind subjectID, activityID and usage (Training/Testing) into data using cbind
  * Merge training and testing data using rbind
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
- * Select columns using regex on column names
+ * Select columns using regex on column names that has *mean()* or *std()*
 3. Uses descriptive activity names to name the activities in the data set
  * Map ActivityID to Activity using **activity_labels.txt**
 4. Appropriately labels the data set with descriptive variable names.
