@@ -2,8 +2,8 @@
 Getting and Cleaning Data Course Project - Coursera
 
 ###Introduction
-Getting and cleaning data collected from the accelerometers from the Samsung Galaxy S smartphone.
-Data Details: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones   
+Getting and cleaning data collected from the accelerometers from the Samsung Galaxy S smartphone. <br>
+Data Details: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones <br>
 Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ###Basic Summary of Data
